@@ -1,0 +1,52 @@
+body{
+	background-image: url("https://zippy.gfycat.com/HiddenWastefulAmericancreamdraft.gif");
+	background-image: fixed no-repeat;
+	text-align: center;
+	background-size: 100%;
+	width: 40%;
+	margin: 6% auto ;
+	padding: 4%;
+	border-radius: 20px;
+	background-color: rgba(255,255,255,0.593);
+	color: #fff;
+
+}
+.title {
+	color: #fff;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	font-size: 4em;
+}
+.box{
+	border-radius: 20px;
+	width: 150px;
+	height: 30px;
+	padding: 3px;
+}
+#entrar{
+	border-radius: 20px;
+	padding: 5px;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	width: 70px;
+	font-size: 1em;
+}
+#cadastro{
+	border-radius: 20px;
+	padding: 5px;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	width: 100px;
+	font-size: 1em;
+}
+#titulo{
+	color: #fff;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	
+}
+#sexo{
+	color: #fff;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+#sex{
+	color: #fff;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+}
